@@ -18,14 +18,14 @@ The project showcases a basic layout with a header, product features, image sect
 - HTML5  
 - CSS3  
 
----
+
 
 ## 📁 Project Structure
 product-landing-page/
-│
-├── index.html
-├── style.css
-└── images/
+  │
+  ├── index.html
+  ├── style.css
+  └── images/
     └── watch.jpg
 
 ## 🚀 How to Run the Project
