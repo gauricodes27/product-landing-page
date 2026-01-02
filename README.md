@@ -40,3 +40,12 @@ product-landing-page/
 
 <img width="1368" height="728" alt="project page preview" src="https://github.com/user-attachments/assets/46c01569-39e9-480b-9fc9-58f679f02d1a" />
 
+
+
+## 🎯 Learning Outcome
+- Learned basic HTML structure
+- Used CSS for styling
+- Understood folder structure
+- Learned how to deploy on GitHub
+ 
+
